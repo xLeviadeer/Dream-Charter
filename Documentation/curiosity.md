@@ -1,4 +1,4 @@
-[to Overview](./overview.md)
+[to Overview](../overview.md)
 
 ---
 # Curiosity

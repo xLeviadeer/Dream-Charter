@@ -1,4 +1,4 @@
-[to Overview](./overview.md)
+[to Overview](../overview.md)
 
 ---
 # Common Objects
@@ -13,7 +13,7 @@ Uses `^` prefix. A 'common object reference'
 > ^ fruit
 > ```
 
-## Information Nesting
+## Information Nsesting
 [Information](./information.md) can be nested inside of a common object reference
 
 ### Example
